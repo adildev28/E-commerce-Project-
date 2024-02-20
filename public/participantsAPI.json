@@ -1,0 +1,3 @@
+[ { "id": 101, "nom": "Alice", "prenom": "Dupont", "certifications": ["Développement Web avec React.js"] ,"email":"user1@gmail.com","password":"U01","role":"formateur"},
+    { "id": 102, "nom": "Bob", "prenom": "Martin", "certifications": ["Développement Web avec React.js"],"email":"user2@gmail.com" ,"password":"U02","role":"participant"},
+    { "id": 103, "nom": "Charlie", "prenom": "Williams", "certifications": [] ,"email":"user3@gmail.com","password":"U03","role":"participant"}]

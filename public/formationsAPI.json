@@ -1,0 +1,36 @@
+ [{
+      "id": 1,
+      "titre": "Formation Développement Web avec React.js",
+      "domaine": "Développement Web",
+      "niveau": "Intermédiaire",
+      "formateur": "John Doe",
+      "date_debut": "2024-02-01",
+      "date_fin": "2024-02-15",
+      "lieu": "Salle A",
+      "disponible":"disponible",
+      "capacite_max": 25,
+      "participants": [
+        { "id": 101, "nom": "Alice", "prenom": "Dupont" },
+        { "id": 102, "nom": "Bob", "prenom": "Martin" }
+      ],
+      "evaluations": [
+        { "participant_id": 101, "note": 4.7, "commentaire": "Excellent cours!" }
+      ]
+    },
+    {
+      "id": 2,
+      "titre": "Formation Avancée sur Redux",
+      "domaine": "Développement Web",
+      "niveau": "Avancé",
+      "formateur": "Jane Smith",
+      "date_debut": "2024-02-10",
+      "date_fin": "2024-02-25",
+      "lieu": "Salle B",
+      "disponible":"indisponible",
+      "capacite_max": 20,
+      "participants": [
+        { "id": 102, "nom": "Bob", "prenom": "Martin" },
+        { "id": 103, "nom": "Charlie", "prenom": "Williams" }
+      ],
+      "evaluations": []
+    }]
